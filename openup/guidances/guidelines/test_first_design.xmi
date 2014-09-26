@@ -61,8 +61,8 @@
 &lt;/h3>&#xD;
 &lt;p>&#xD;
     1. An underlying assumption of TFD is that a unit-testing framework is available. Agile software developers often use&#xD;
-    the xUnit family of open source tools, such as &lt;a href=&quot;http://www.junit.org/&quot;>&lt;strong>JUnit&lt;/strong>&lt;/a> or &lt;a&#xD;
-    href=&quot;http://www.vbunit.org/&quot;>&lt;strong>VBUnit&lt;/strong>&lt;/a>, although commercial tools are also viable options.&#xD;
+    the xUnit family of open source tools, such as &lt;a  href=&quot;http://www.junit.org/&quot; >&lt;strong>JUnit&lt;/strong>&lt;/a> or &lt;a&#xD; 
+    href=&quot;http://www.vbunit.org/&quot; >&lt;strong>VBUnit&lt;/strong>&lt;/a>, although commercial tools are also viable options.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     2. Test-Driven Design (TDD) = TFD + &lt;a class=&quot;elementLink&quot; href=&quot;./../../../openup/guidances/concepts/refactoring.html&quot;&#xD;

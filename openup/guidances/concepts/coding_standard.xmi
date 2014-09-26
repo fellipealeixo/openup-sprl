@@ -45,7 +45,7 @@
     Though some standards can transcend any language, coding standards must be language specific for the most part.&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
-    For example coding standards, see the &lt;a href=&quot;http://java.sun.com/docs/codeconv/html/CodeConvTOC.doc.html&quot; target=&quot;_blank&quot;>Code Conventions for the JavaTM Programming Language&lt;/a> or these &lt;a href=&quot;http://blogs.msdn.com/brada/articles/361363.aspx&quot; target=&quot;_blank&quot;>Internal Coding Guidelines&lt;/a> for .NET&#xD;
+    For example coding standards, see the &lt;a  href=&quot;http://java.sun.com/docs/codeconv/html/CodeConvTOC.doc.html&quot; target=&quot;_blank&quot; >Code Conventions for the JavaTM Programming Language&lt;/a> or these &lt;a  href=&quot;http://blogs.msdn.com/brada/articles/361363.aspx&quot; target=&quot;_blank&quot; >Internal Coding Guidelines&lt;/a> for .NET&#xD;
     development.&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

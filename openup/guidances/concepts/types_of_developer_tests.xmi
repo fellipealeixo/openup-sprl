@@ -51,7 +51,7 @@
 &lt;/ul>&#xD;
 &lt;p>&#xD;
     Regression testing is critical to success as an agile developer. Many software developers use the xUnit family of open&#xD;
-    source tools, such as &lt;a href=&quot;http://www.junit.org/&quot; target=&quot;_blank&quot;>JUnit&lt;/a> and &lt;a href=&quot;http://www.vbunit.org/&quot; target=&quot;_blank&quot;>VBUnit&lt;/a>, to test their code. The advantage of these tools is that they implement a testing framework&#xD;
+    source tools, such as &lt;a  href=&quot;http://www.junit.org/&quot; target=&quot;_blank&quot; >JUnit&lt;/a> and &lt;a  href=&quot;http://www.vbunit.org/&quot; target=&quot;_blank&quot; >VBUnit&lt;/a>, to test their code. The advantage of these tools is that they implement a testing framework&#xD;
     with which you can regression test all of your source code. Commercial testing tools are also viable options.&#xD;
 &lt;/p>&#xD;
 &lt;h3>&#xD;

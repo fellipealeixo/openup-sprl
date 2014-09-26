@@ -67,10 +67,10 @@
 &lt;/p>&#xD;
 &lt;ul>&#xD;
     &lt;li>&#xD;
-        &lt;a href=&quot;http://www.refactoring.com/&quot; target=&quot;_blank&quot;>http://www.refactoring.com/&lt;/a>&#xD;
+        &lt;a  href=&quot;http://www.refactoring.com/&quot; target=&quot;_blank&quot; >http://www.refactoring.com/&lt;/a>&#xD;
     &lt;/li>&#xD;
     &lt;li>&#xD;
-        &lt;a href=&quot;http://www.agiledata.org/essays/databaseRefactoring.html&quot;>http://www.agiledata.org/essays/databaseRefactoring.html&lt;/a>&#xD;
+        &lt;a  href=&quot;http://www.agiledata.org/essays/databaseRefactoring.html&quot; >http://www.agiledata.org/essays/databaseRefactoring.html&lt;/a>&#xD;
     &lt;/li>&#xD;
 &lt;/ul></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

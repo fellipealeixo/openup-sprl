@@ -37,7 +37,7 @@
   <sections xmi:id="_yeFh4D6SEduAL-bCqar_dg" name="UML" guid="_yeFh4D6SEduAL-bCqar_dg">
     <sectionDescription>&lt;ul>&#xD;
   &lt;li> Does the visual model conform to UML standards so that all stakeholders &#xD;
-    can understand the model over time? (See the&amp;nbsp;&lt;a href=&quot;http://www.uml.org/&quot; target=&quot;_blank&quot;>OMG &#xD;
+    can understand the model over time? (See the&amp;nbsp;&lt;a  href=&quot;http://www.uml.org/&quot; target=&quot;_blank&quot; >OMG &#xD;
     UML Resource Page&lt;/a>&amp;nbsp;for more information.)&lt;/li>&#xD;
   &lt;li> Does the visual model conform to project- or organization-specific modeling &#xD;
     standards? &lt;/li>&#xD;

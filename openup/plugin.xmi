@@ -1255,6 +1255,26 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FlzkEEWuEeS2t6ojPm_a4A" name="variable_content" guid="_FlzkEEWuEeS2t6ojPm_a4A">
           <methodElementProperty xmi:id="_FlzkEUWuEeS2t6ojPm_a4A" name="pkg_loadCheck" value="true"/>
           <methodElementProperty xmi:id="_H6gKkEWuEeS2t6ojPm_a4A" name="me_edited" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_OIV4AFFCEeSQl6GfJsd4Yg" name="alternative_requirements-specification" guid="_OIV4AFFCEeSQl6GfJsd4Yg">
+            <methodElementProperty xmi:id="_OIb-oFFCEeSQl6GfJsd4Yg" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_PHRlcFFCEeSQl6GfJsd4Yg" name="me_edited" value="true"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_RHDr4FFCEeSQl6GfJsd4Yg" name="alternative1_use-cases" guid="_RHDr4FFCEeSQl6GfJsd4Yg">
+              <methodElementProperty xmi:id="_RHJygFFCEeSQl6GfJsd4Yg" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_Ro-GIFFCEeSQl6GfJsd4Yg" name="me_edited" value="true"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_TowMkFFCEeSQl6GfJsd4Yg" name="alternative2_user-stories" guid="_TowMkFFCEeSQl6GfJsd4Yg">
+              <methodElementProperty xmi:id="_TowMkVFCEeSQl6GfJsd4Yg" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_Uyk7YFFCEeSQl6GfJsd4Yg" name="me_edited" value="true"/>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_cts-4FFCEeSQl6GfJsd4Yg" name="alternative3_product-backlog" guid="_cts-4FFCEeSQl6GfJsd4Yg">
+              <methodElementProperty xmi:id="_cts-4VFCEeSQl6GfJsd4Yg" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_dbEbMFFCEeSQl6GfJsd4Yg" name="me_edited" value="true"/>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fW8SAFFCEeSQl6GfJsd4Yg" name="optional_junit-framework" guid="_fW8SAFFCEeSQl6GfJsd4Yg">
+            <methodElementProperty xmi:id="_fW8SAVFCEeSQl6GfJsd4Yg" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_f6j8cFFCEeSQl6GfJsd4Yg" name="me_edited" value="true"/>
+          </childPackages>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_0nJNkMlgEdmt3adZL5Dmdw" name="CapabilityPatterns" guid="_0nJNkMlgEdmt3adZL5Dmdw">

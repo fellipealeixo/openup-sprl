@@ -1304,6 +1304,68 @@
             <methodElementProperty xmi:id="_fW8SAVFCEeSQl6GfJsd4Yg" name="pkg_loadCheck" value="true"/>
             <methodElementProperty xmi:id="_f6j8cFFCEeSQl6GfJsd4Yg" name="me_edited" value="true"/>
           </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Iwf_0JZ-EeSumoZyQIstiw" name="alternative_architecture-design" guid="_Iwf_0JZ-EeSumoZyQIstiw">
+            <methodElementProperty xmi:id="_IwmtgJZ-EeSumoZyQIstiw" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_KwzqsJZ-EeSumoZyQIstiw" name="me_edited" value="true"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_Mtzi4JZ-EeSumoZyQIstiw" name="alternative2_well-documented" guid="_Mtzi4JZ-EeSumoZyQIstiw">
+              <methodElementProperty xmi:id="_Mt0J8JZ-EeSumoZyQIstiw" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_NTiGIJZ-EeSumoZyQIstiw" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_QBs8kJZ-EeSumoZyQIstiw" name="architect" guid="_QBs8kJZ-EeSumoZyQIstiw" presentationName="Architect">
+                <methodElementProperty xmi:id="_SHbS8JZ-EeSumoZyQIstiw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_Uc4HYJZ-EeSumoZyQIstiw" name="architecture_notebook" guid="_Uc4HYJZ-EeSumoZyQIstiw" presentationName="Architecture Notebook">
+                <methodElementProperty xmi:id="_VgsU0JZ-EeSumoZyQIstiw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_eLbQUJZ-EeSumoZyQIstiw" name="architecture_notebook" guid="_eLbQUJZ-EeSumoZyQIstiw" presentationName="Architecture Notebook">
+                <methodElementProperty xmi:id="_fmsUcJZ-EeSumoZyQIstiw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_iD7L4JZ-EeSumoZyQIstiw" name="architecture_notebook" guid="_iD7L4JZ-EeSumoZyQIstiw" presentationName="Architecture Notebook">
+                <methodElementProperty xmi:id="_jmNeAJZ-EeSumoZyQIstiw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_lc1ocJZ-EeSumoZyQIstiw" name="architectural_constraints" guid="_lc1ocJZ-EeSumoZyQIstiw" presentationName="Architectural Constraints">
+                <methodElementProperty xmi:id="_m1IREJZ-EeSumoZyQIstiw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_ocR1EJZ-EeSumoZyQIstiw" name="architectural_goals" guid="_ocR1EJZ-EeSumoZyQIstiw" presentationName="Architectural Goals">
+                <methodElementProperty xmi:id="_p_NAYJZ-EeSumoZyQIstiw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_sU3QMJZ-EeSumoZyQIstiw" name="architectural_mechanism" guid="_sU3QMJZ-EeSumoZyQIstiw" presentationName="Architectural Mechanism">
+                <methodElementProperty xmi:id="_t_QVcJZ-EeSumoZyQIstiw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_vmsNUJZ-EeSumoZyQIstiw" name="architectural_views_and_viewpoints" guid="_vmsNUJZ-EeSumoZyQIstiw" presentationName="Architectural Views and Viewpoints">
+                <methodElementProperty xmi:id="_x1Jo8JZ-EeSumoZyQIstiw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_zf7vwJZ-EeSumoZyQIstiw" name="architecturally_significant_requirements" guid="_zf7vwJZ-EeSumoZyQIstiw" presentationName="Architecturally Significant Requirements">
+                <methodElementProperty xmi:id="_1LockJZ-EeSumoZyQIstiw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_33iCIJZ-EeSumoZyQIstiw" name="4+1_views_of_software_architecture" guid="_33iCIJZ-EeSumoZyQIstiw" presentationName="4+1 Views of Software Architecture">
+                <methodElementProperty xmi:id="_6-40oJZ-EeSumoZyQIstiw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Example" xmi:id="_-ZsHkJZ-EeSumoZyQIstiw" name="architectural_mechanism_attributes" guid="_-ZsHkJZ-EeSumoZyQIstiw" presentationName="Architectural Mechanism Attributes">
+                <methodElementProperty xmi:id="_AN9hkJZ_EeSumoZyQIstiw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_C7zn4JZ_EeSumoZyQIstiw" name="identify_common_architectural_mechanisms" guid="_C7zn4JZ_EeSumoZyQIstiw" presentationName="Identify Common Architectural Mechanisms">
+                <methodElementProperty xmi:id="_FOQysJZ_EeSumoZyQIstiw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_Hn_qMJZ_EeSumoZyQIstiw" name="modeling_the_architecture" guid="_Hn_qMJZ_EeSumoZyQIstiw" presentationName="Modeling the Architecture">
+                <methodElementProperty xmi:id="_JFzE8JZ_EeSumoZyQIstiw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_KhWc8JZ_EeSumoZyQIstiw" name="component" guid="_KhWc8JZ_EeSumoZyQIstiw" presentationName="Component">
+                <methodElementProperty xmi:id="_LXcXcJZ_EeSumoZyQIstiw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_MpDJQJZ_EeSumoZyQIstiw" name="software_architecture" guid="_MpDJQJZ_EeSumoZyQIstiw" presentationName="Software Architecture">
+                <methodElementProperty xmi:id="_NyKGYJZ_EeSumoZyQIstiw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Roadmap" xmi:id="_PsqEMJZ_EeSumoZyQIstiw" name="how_to_adopt_the_evolutionary_design_practice" guid="_PsqEMJZ_EeSumoZyQIstiw" presentationName="How to Adopt the Evolutionary Design Practice">
+                <methodElementProperty xmi:id="_Szvw8JZ_EeSumoZyQIstiw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pHFasJaAEeSumoZyQIstiw" name="refine_the_architecture" guid="_pHFasJaAEeSumoZyQIstiw" presentationName="Refine the Architecture">
+                <methodElementProperty xmi:id="_xykkIJaAEeSumoZyQIstiw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_nWtMwJaBEeSumoZyQIstiw" name="develop_the_architecture" guid="_nWtMwJaBEeSumoZyQIstiw" presentationName="Develop the Architecture">
+                <methodElementProperty xmi:id="_pCTL4JaBEeSumoZyQIstiw" name="me_edited" value="true"/>
+              </contentElements>
+            </childPackages>
+          </childPackages>
         </childPackages>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_0nJNkMlgEdmt3adZL5Dmdw" name="CapabilityPatterns" guid="_0nJNkMlgEdmt3adZL5Dmdw">

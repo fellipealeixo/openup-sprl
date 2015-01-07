@@ -1365,6 +1365,74 @@
                 <methodElementProperty xmi:id="_pCTL4JaBEeSumoZyQIstiw" name="me_edited" value="true"/>
               </contentElements>
             </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_oMlcIJaSEeScu_UbfN6XGw" name="alternative1_agile-design" guid="_oMlcIJaSEeScu_UbfN6XGw">
+              <methodElementProperty xmi:id="_oMlcIZaSEeScu_UbfN6XGw" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_FAfsYJaTEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_rYnTQJaSEeScu_UbfN6XGw" name="tester" guid="_rYnTQJaSEeScu_UbfN6XGw" presentationName="tester">
+                <methodElementProperty xmi:id="_FAynUJaTEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Practice" xmi:id="_vPdpAJaSEeScu_UbfN6XGw" name="concurrent_testing" guid="_vPdpAJaSEeScu_UbfN6XGw" presentationName="concurrent_testing">
+                <methodElementProperty xmi:id="_vP6U8JaSEeScu_UbfN6XGw" name="PUBLISH_CATEGORY" value="true"/>
+                <methodElementProperty xmi:id="_FBGJUJaTEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_zYn2wJaSEeScu_UbfN6XGw" name="test_case" guid="_zYn2wJaSEeScu_UbfN6XGw" presentationName="test_case">
+                <methodElementProperty xmi:id="_FBZEQJaTEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_1zQtMJaSEeScu_UbfN6XGw" name="test_case" guid="_1zQtMJaSEeScu_UbfN6XGw" presentationName="test_case">
+                <methodElementProperty xmi:id="_FB-6IJaTEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_4diiIJaSEeScu_UbfN6XGw" name="test_case" guid="_4diiIJaSEeScu_UbfN6XGw" presentationName="test_case">
+                <methodElementProperty xmi:id="_FCIrIJaTEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_6CvlYJaSEeScu_UbfN6XGw" name="test_script" guid="_6CvlYJaSEeScu_UbfN6XGw" presentationName="test_script">
+                <methodElementProperty xmi:id="_FCbmEJaTEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_88KpkJaSEeScu_UbfN6XGw" name="test_script" guid="_88KpkJaSEeScu_UbfN6XGw" presentationName="test_script">
+                <methodElementProperty xmi:id="_FDD4MJaTEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Template" xmi:id="_-i7MAJaSEeScu_UbfN6XGw" name="test_script" guid="_-i7MAJaSEeScu_UbfN6XGw" presentationName="test_script">
+                <methodElementProperty xmi:id="_FDTIwJaTEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_AXC1AJaTEeScu_UbfN6XGw" name="test_log" guid="_AXC1AJaTEeScu_UbfN6XGw" presentationName="test_log">
+                <methodElementProperty xmi:id="_FDmDsJaTEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Checklist" xmi:id="_C6UDAJaTEeScu_UbfN6XGw" name="test_data" guid="_C6UDAJaTEeScu_UbfN6XGw" presentationName="test_data">
+                <methodElementProperty xmi:id="_FECvoJaTEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_G9dIUJaTEeScu_UbfN6XGw" name="test_ideas" guid="_G9dIUJaTEeScu_UbfN6XGw" presentationName="test_ideas">
+                <methodElementProperty xmi:id="_0J-lwJaTEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_UKUyQJaTEeScu_UbfN6XGw" name="test_ideas" guid="_UKUyQJaTEeScu_UbfN6XGw" presentationName="test_ideas">
+                <methodElementProperty xmi:id="_0KHvsJaTEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Roadmap" xmi:id="_WOV4cJaTEeScu_UbfN6XGw" name="how_to_adopt_the_concurrent_testing_practice" guid="_WOV4cJaTEeScu_UbfN6XGw" presentationName="how_to_adopt_the_concurrent_testing_practice">
+                <methodElementProperty xmi:id="_0KbRsJaTEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_x98MAJaTEeScu_UbfN6XGw" name="test_solution" guid="_x98MAJaTEeScu_UbfN6XGw" presentationName="test_solution">
+                <methodElementProperty xmi:id="_0KuMoJaTEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_O2t4sJaVEeScu_UbfN6XGw" name="implement_tests" guid="_O2t4sJaVEeScu_UbfN6XGw" presentationName="implement_tests">
+                <methodElementProperty xmi:id="_kqFo8JaWEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_SBGKAJaVEeScu_UbfN6XGw" name="run_tests" guid="_SBGKAJaVEeScu_UbfN6XGw" presentationName="run_tests">
+                <methodElementProperty xmi:id="_kqPZ8JaWEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_UZuOQJaVEeScu_UbfN6XGw" name="test_solution" guid="_UZuOQJaVEeScu_UbfN6XGw" presentationName="test_solution">
+                <methodElementProperty xmi:id="_kqiU4JaWEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_pTUTUJaVEeScu_UbfN6XGw" name="implement_tests" guid="_pTUTUJaVEeScu_UbfN6XGw" presentationName="implement_tests">
+                <methodElementProperty xmi:id="_kq1P0JaWEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_rvn9sJaVEeScu_UbfN6XGw" name="run_tests" guid="_rvn9sJaVEeScu_UbfN6XGw" presentationName="run_tests">
+                <methodElementProperty xmi:id="_krR7wJaWEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_yzMHEJaVEeScu_UbfN6XGw" name="create_test_cases" guid="_yzMHEJaVEeScu_UbfN6XGw" presentationName="create_test_cases">
+                <methodElementProperty xmi:id="_krk2sJaWEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QHuYIJaWEeScu_UbfN6XGw" name="create_test_cases" guid="_QHuYIJaWEeScu_UbfN6XGw" presentationName="create_test_cases">
+                <methodElementProperty xmi:id="_kr3xoJaWEeScu_UbfN6XGw" name="me_edited" value="true"/>
+              </contentElements>
+            </childPackages>
           </childPackages>
         </childPackages>
       </childPackages>
